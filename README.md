@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Twitter Clone]**
-- 
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
