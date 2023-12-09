@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Twitter Clone]**
+- 🔭 I’m currently working on **Finance App**
 
-- 🌱 I’m currently learning **React OR Native**
+- 🌱 I’m currently learning **React OR DevOps**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
