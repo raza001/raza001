@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
-
 - 📫 How to reach me **razamohd371@gmail.com**
 
 - ⚡ Fun fact **I play games**
