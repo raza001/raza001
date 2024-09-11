@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Finance Website**
 
-- 🌱 I’m currently learning **Spring Boot And DevOps**
+- 🌱 I’m currently learning **Spring Boot And RUST**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
