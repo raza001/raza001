@@ -74,14 +74,14 @@ Interested In:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raza001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raza001&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raza001&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raza001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
